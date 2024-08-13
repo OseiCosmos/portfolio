@@ -594,6 +594,10 @@ body.nav-active { overflow: hidden; }
   border-radius: inherit;
 }
 
+.progress-label{
+  margin-left: 10px;
+}
+
 
 
 
