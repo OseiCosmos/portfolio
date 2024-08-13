@@ -571,7 +571,7 @@ body.nav-active { overflow: hidden; }
 
 .skills .section-text { margin-block-end: 20px; }
 
-.skills .btn { margin-block: 45px; }
+.skills .btn { margin-block: 50px; }
 
 .skills-list li:not(:last-child) { margin-block-end: 30px; }
 
