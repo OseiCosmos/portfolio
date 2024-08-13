@@ -595,7 +595,8 @@ body.nav-active { overflow: hidden; }
 }
 
 .progress-label{
-  margin-left: 10px;
+  position: absolute;
+  left: 2%;
 }
 
 
